@@ -1,2 +1,2 @@
 # Blog API
-build with Express + Typescript + Prisma
+build with Express + Typescript + Prisma + PostgreSQL
